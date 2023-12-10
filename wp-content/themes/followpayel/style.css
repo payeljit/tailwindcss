@@ -1,0 +1,14 @@
+/* 
+Theme Name: followpayel
+Text Domain: followpayel
+Version: 1.0
+Description: Some practice WP site, theme from scratch
+Author: Payel Banerjee
+Author URI: https://payelbanerjee.com
+*/
+body {
+    background-color: #F8FFEC;
+}
+.tag {
+    padding: 10px;
+}

@@ -1,2 +1,0 @@
-# tailwindcss
-CSS framework tailsindcss
