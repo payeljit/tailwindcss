@@ -1,21 +1,16 @@
 <?php 
 get_header();
 ?>
-<article class="content">   
+<main class="px-16 py-16">
+   <div class="flex justify-end">
+      <a href="" class="text-primary">Login</a>
+      <a href="" class="text-primary">Signup</a>
+   </div>
+   <h1 class="text-zinc-800 text-6xl font-semibold">Recipes</h1>
 
-<?php 
-if( have_posts()) {
-   while( have_posts() ){
-      the_title();
-      the_post();
-      the_content();
-   }
-}
-
-?>
+</main>
 
 
-</article>
 
 
 <?php 
